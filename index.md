@@ -24,7 +24,7 @@ _In Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 20
 
 ### Journal Articles
 
-**[Predicting Diarrhoea Outbreaks with Climate Change](https://Tassabdul.github.io/pdf/2022-Predicting%20diarrhoea%20outbreaks%20with%20climate%20change.pdf)\
+**[Predicting Diarrhoea Outbreaks with Climate Change](https://Tassabdul.github.io/pdf/2022-Predicting%20diarrhoea%20outbreaks%20with%20climate%20change.pdf)**\
 **Abdullahi, T.**, Nitschke, G., and Sweijd, N. \
 _PLoS ONE. (2022)_
 
