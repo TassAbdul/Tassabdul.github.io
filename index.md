@@ -1,5 +1,5 @@
 
-I am a PhD student at the [AI Lab](http://brown.edu/Research/AI/index.html) at Brown University, advised by Professor [Carsten Eickhoff](http://brown.edu/Research/AI/people/carsten.html) and Professor [Ritambhara Singh](https://ritambharasingh.com/) . I am currently interested in applying information retrieval and natural language processing for improving individual and public health. More broadly, my research interests include probabilistic modeling, Bayesian learning, large-scale optimization, and time series modeling.
+I am a PhD student at the [AI Lab](http://brown.edu/Research/AI/index.html) at Brown University, advised by Professor [Carsten Eickhoff](http://brown.edu/Research/AI/people/carsten.html) and Professor [Ritambhara Singh](https://ritambharasingh.com/). I am currently interested in applying information retrieval and natural language processing for improving individual and public health.
 
 Prior to my graduate studies at Brown, I obtained a Master’s degree in computer science from the University of Cape Town, South Africa (UCT). At UCT, I worked with Professor [Geoff Nitschke](http://www.nitschke-lab.uct.ac.za/nitschke/people) on applying evolutionary algorithms to optimize machine learning for predictive analysis. 
 
