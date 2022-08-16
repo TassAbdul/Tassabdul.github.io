@@ -1,35 +1,17 @@
-## Portfolio
+
+I am a PhD student at the [AI Lab](http://brown.edu/Research/AI/index.html) at Brown University and an [ACM SigHPC fellow](https://www.sighpc.org/for-your-career/fellowships), advised by Professor [Carsten Eickhoff](http://brown.edu/Research/AI/people/carsten.html) and Professor [Ritambhara Singh](https://ritambharasingh.com/) . I am currently interested in applying information retrieval and natural language processing for improving individual and public health. More broadly, my research interests include probabilistic modeling, Bayesian learning, large-scale optimization, and time series modeling.
+
+Prior to my graduate studies at Brown, I obtained a Master’s degree in computer science from the University of Cape Town, South Africa (UCT). At UCT, I worked with Professor [Geoff Nitschke](http://www.nitschke-lab.uct.ac.za/nitschke/people) on applying evolutionary algorithms to optimize machine learning for predictive analysis. 
 
 ---
+You can contact me at tassallah_abdullahi@brown.edu
+ 
+<a href="https://sanaelotfi.github.io/pdf/cv_sanae_lotfi0803.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9), [Twitter](https://twitter.com/amilah_dul)
+<!-- Remove above link if you don't want to attibute -->
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+### Publications 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Last Updated on 16/08/2022 by Tassallah Abdullahi</p>
 <!-- Remove above link if you don't want to attibute -->
