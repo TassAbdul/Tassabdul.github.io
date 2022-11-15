@@ -1,5 +1,5 @@
 
-I am a PhD student at the [AI Lab](http://brown.edu/Research/AI/index.html) at Brown University, advised by Professor [Carsten Eickhoff](http://brown.edu/Research/AI/people/carsten.html) and Professor [Ritambhara Singh](https://ritambharasingh.com/). I am currently interested in applying information retrieval and natural language processing for improving individual and public health.
+I am a Ph.D. student at the [AI Lab](http://brown.edu/Research/AI/index.html) at Brown University, advised by Professor [Carsten Eickhoff](http://brown.edu/Research/AI/people/carsten.html) and Professor [Ritambhara Singh](https://ritambharasingh.com/). I am also an ACM SIGHPC fellow(https://www.sighpc.org/for-your-career/fellowships/2022-fellowship-winners). I am currently interested in applying information retrieval and natural language processing to improve machine learning with limited labeled data in various domains, including healthcare.
 
 Prior to my graduate studies at Brown, I obtained a Master’s degree in computer science from the University of Cape Town, South Africa (UCT). At UCT, I worked with Professor [Geoff Nitschke](http://www.nitschke-lab.uct.ac.za/nitschke/people) on applying evolutionary algorithms to optimize machine learning for predictive analysis. 
 
