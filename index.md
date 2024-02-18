@@ -19,7 +19,7 @@ _JMIR Edu. (2024)_
 
 [Retrieval Based Diagnostic Decision Support](https://preprints.jmir.org/preprint/50209)\
 **Abdullahi, T.**, Mercurio L., Singh, R., and Eickhoff, C. \
-_JMIR Edu. (2024)_
+_Under Review at JMIR. (2024)_
 
 [Predicting Diarrhoea Outbreaks with Climate Change](https://Tassabdul.github.io/pdf/2022-Predicting%20diarrhoea%20outbreaks%20with%20climate%20change.pdf)\
 **Abdullahi, T.**, Nitschke, G., and Sweijd, N. \
