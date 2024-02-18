@@ -9,6 +9,22 @@ You can contact me at tassallah_abdullahi@brown.edu
 <a href="https://Tassabdul.github.io/pdf/Amina_cv.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9), [Twitter](https://twitter.com/amilah_dul)
 <!-- Remove above link if you don't want to attibute -->
 
+
+### Journal Articles
+
+[Learning to Make Rare and Complex Diagnoses With Generative AI Assistance: Qualitative Study of Popular Large Language Models](https://mededu.jmir.org/2024/1/e51391)\
+**Abdullahi, T.**, Singh, R., and Eickhoff, C. \
+_JMIR Edu. (2024)_
+
+
+[Retrieval Based Diagnostic Decision Support](https://preprints.jmir.org/preprint/50209)\
+**Abdullahi, T.**, Mercurio L., Singh, R., and Eickhoff, C. \
+_JMIR Edu. (2024)_
+
+[Predicting Diarrhoea Outbreaks with Climate Change](https://Tassabdul.github.io/pdf/2022-Predicting%20diarrhoea%20outbreaks%20with%20climate%20change.pdf)\
+**Abdullahi, T.**, Nitschke, G., and Sweijd, N. \
+_PLoS ONE. (2022)_
+
 ---
 ### Conference Proceedings
 
@@ -22,12 +38,5 @@ _In Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 20
 
 ---
 
-### Journal Articles
-
-**[Predicting Diarrhoea Outbreaks with Climate Change](https://Tassabdul.github.io/pdf/2022-Predicting%20diarrhoea%20outbreaks%20with%20climate%20change.pdf)**\
-**Abdullahi, T.**, Nitschke, G., and Sweijd, N. \
-_PLoS ONE. (2022)_
-
----
-<p style="font-size:11px">Last Updated on 16/08/2022 by Tassallah Abdullahi</p>
+<p style="font-size:11px">Last Updated on 02/18/2024 by Tassallah Abdullahi</p>
 <!-- Remove above link if you don't want to attibute -->
