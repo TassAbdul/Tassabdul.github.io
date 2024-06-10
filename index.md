@@ -28,6 +28,10 @@ _PLoS ONE. (2022)_
 ---
 ### Conference Proceedings
 
+AfriMed-QA: Towards A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset\
+Olatunji, T., Charles, N., Owodunni, A., Yuehgoh F., **Abdullahi, T.**, et al.\
+_Under Review at NEURIPS. (2024)_
+
 [Retrieval Augmented Zero-Shot Text Classification](https://openreview.net/pdf?id=Z7JgoQ7R9Y)\
 **Abdullahi, T.**, Singh, R., and Eickhoff, C. \
 _ACM SIGIR ICTIR. (2024)_
