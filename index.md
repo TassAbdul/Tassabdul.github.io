@@ -12,14 +12,14 @@ You can contact me at tassallah_abdullahi@brown.edu
 
 ### Journal Articles
 
+[Retrieval Based Diagnostic Decision Support: A Mixed Methods Study](https://preprints.jmir.org/preprint/50209)\
+**Abdullahi, T.**, Mercurio L., Singh, R., and Eickhoff, C. \
+_JMIR Med Informatics. (2024)_
+
 [Learning to Make Rare and Complex Diagnoses With Generative AI Assistance: Qualitative Study of Popular Large Language Models](https://mededu.jmir.org/2024/1/e51391)\
 **Abdullahi, T.**, Singh, R., and Eickhoff, C. \
 _JMIR Edu. (2024)_
 
-
-[Retrieval Based Diagnostic Decision Support](https://preprints.jmir.org/preprint/50209)\
-**Abdullahi, T.**, Mercurio L., Singh, R., and Eickhoff, C. \
-_Under Review at JMIR. (2024)_
 
 [Predicting Diarrhoea Outbreaks with Climate Change](https://Tassabdul.github.io/pdf/2022-Predicting%20diarrhoea%20outbreaks%20with%20climate%20change.pdf)\
 **Abdullahi, T.**, Nitschke, G., and Sweijd, N. \
@@ -27,6 +27,10 @@ _PLoS ONE. (2022)_
 
 ---
 ### Conference Proceedings
+
+[Retrieval Augmented Zero-Shot Text Classification](https://openreview.net/pdf?id=Z7JgoQ7R9Y)\
+**Abdullahi, T.**, Singh, R., and Eickhoff, C. \
+_ACM SIGIR ICTIR. (2024)_
 
 **[Predicting Disease Outbreaks with Climate Data](https://Tassabdul.github.io/pdf/2021-Predicting%20Disease%20Outbreaks%20with%20Climate%20Data.pdf)**\
 **Abdullahi, T.**, and Nitschke, G.\
