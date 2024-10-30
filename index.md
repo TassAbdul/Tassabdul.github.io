@@ -13,10 +13,6 @@ You can contact me at tassallah_abdullahi@brown.edu
 
 ### Journal Articles
 
-Establishing the Timing of Patient Outcomes for Time-Series Modeling in Predictive Medicine.\
-**Abdullahi, T.**, Hamzeh, A., Abbasi, A., Eickhoff, C. \
-JAMIA, 2024 (Under Review).
-
 [Retrieval Based Diagnostic Decision Support: A Mixed Methods Study](https://preprints.jmir.org/preprint/50209)\
 **Abdullahi, T.**, Mercurio L., Singh, R., and Eickhoff, C. \
 _JMIR Med Informatics. (2024)_
