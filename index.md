@@ -7,7 +7,7 @@ Prior to my graduate studies at Brown, I obtained a Master’s degree in compute
 ---
 You can contact me at tassallah_abdullahi@brown.edu
  
-<a href="https://Tassabdul.github.io/pdf/Resume_General_Oct.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9), [Twitter](https://twitter.com/amilah_dul)
+<a href="https://Tassabdul.github.io/pdf/Resume_General_2025.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9), [Twitter](https://twitter.com/amilah_dul)
 <!-- Remove above link if you don't want to attibute -->
 
 
@@ -31,15 +31,15 @@ _PLoS ONE. (2022)_
 
 Afrispeech-Dialog: A Benchmark Dataset for Spontaneous English Conversations in Healthcare and Beyond\
 Mardhiyyah Sanni, **Abdullahi, T.** et al.\
-_Under Review at NAACL. (2024)_
+_NAACL. (2025)_
 
 Diagnostic Accuracy of ChatGPT4.0 for TIA or Stroke Using Patient Symptoms and Demographic Data.\
 Khatri, I.,  **Abdullahi, T.** et al. \
-_DEX24 Conference, (2024)_
+_International Stroke Conference, (2025)_
 
 [AfriMed-QA: Towards A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset](https://huggingface.co/datasets/intronhealth/afrimedqa_v2)\
 Olatunji, T., Charles, N., Owodunni, A., Yuehgoh F., **Abdullahi, T.**, et al.\
-_Under Review at ACL ARR. (2024)_
+_Under Review at ACL ARR. (2025)_
 
 [Retrieval Augmented Zero-Shot Text Classification](https://openreview.net/pdf?id=Z7JgoQ7R9Y)\
 **Abdullahi, T.**, Singh, R., and Eickhoff, C. \
