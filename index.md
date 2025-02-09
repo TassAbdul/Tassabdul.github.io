@@ -37,12 +37,12 @@ _Under Review at KDD. (2025)_
 Olatunji, T., Charles, N., Owodunni, A., Yuehgoh F., **Abdullahi, T.**, et al.\
 _Under Review at ACL ARR. (2025)_
 
-Afrispeech-Dialog: A Benchmark Dataset for Spontaneous English Conversations in Healthcare and Beyond (https://arxiv.org/abs/2502.03945)\
+[Afrispeech-Dialog: A Benchmark Dataset for Spontaneous English Conversations in Healthcare and Beyond](https://arxiv.org/abs/2502.03945)\
 Mardhiyyah Sanni, **Abdullahi, T.** et al.\
 _NAACL. (2025)_
 
-Diagnostic Accuracy of ChatGPT4.0 for TIA or Stroke Using Patient Symptoms and Demographic Data.\
-Khatri, I.,  **Abdullahi, T.** et al. \
+[Diagnostic Accuracy of ChatGPT4.0 for TIA or Stroke Using Patient Symptoms and Demographic Data](https://www.ahajournals.org/doi/abs/10.1161/str.56.suppl_1.66)\
+Khatri, I., Zahiri, A., **Abdullahi, T.** et al. \
 _International Stroke Conference, (2025)_
 
 [Retrieval Augmented Zero-Shot Text Classification](https://openreview.net/pdf?id=Z7JgoQ7R9Y)\
