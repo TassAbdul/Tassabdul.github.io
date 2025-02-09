@@ -1,5 +1,5 @@
 
-I am a Ph.D. student at the [AI Lab](http://brown.edu/Research/AI/index.html) at Brown University, advised by Professor [Carsten Eickhoff](http://brown.edu/Research/AI/people/carsten.html) and Professor [Ritambhara Singh](https://ritambharasingh.com/). I am also a [ACM SIGHPC Fellow](https://www.sighpc.org/for-your-career/fellowships/2022-fellowship-winners). I am interested in applying information retrieval and natural language processing to improve learning, factuality, and evidence-based modeling in various domains, including healthcare. I am also passionate about evaluating the performance and robustness of NLP models, including their impact on healthcare accessibility and efficacy in low- and middle-income communities.
+I am a Ph.D. student at the [Health AI Lab](http://brown.edu/Research/AI/index.html) at Brown University, advised by Professor [Carsten Eickhoff](http://brown.edu/Research/AI/people/carsten.html) and Professor [Ritambhara Singh](https://ritambharasingh.com/). I am also a [ACM SIGHPC Fellow](https://www.sighpc.org/for-your-career/fellowships/2022-fellowship-winners). I am interested in applying information retrieval and natural language processing to improve learning, factuality, and evidence-based modeling in various domains, including healthcare. I am also passionate about evaluating the performance and robustness of NLP models, including their impact on healthcare accessibility and efficacy in low- and middle-income communities.
 
 
 Prior to my graduate studies at Brown, I obtained a Master’s degree in computer science from the University of Cape Town, South Africa (UCT). At UCT, I worked with Professor [Geoff Nitschke](http://www.nitschke-lab.uct.ac.za/nitschke/people) on applying evolutionary algorithms to optimize machine learning for predictive analysis. 
@@ -7,7 +7,7 @@ Prior to my graduate studies at Brown, I obtained a Master’s degree in compute
 ---
 You can contact me at tassallah_abdullahi@brown.edu
  
-<a href="https://Tassabdul.github.io/pdf/Resume_General_2025.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9), [Twitter](https://twitter.com/amilah_dul)
+<a href="https://Tassabdul.github.io/pdf/Resume_2025_.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9), [Twitter](https://twitter.com/amilah_dul)
 <!-- Remove above link if you don't want to attibute -->
 
 
@@ -29,17 +29,21 @@ _PLoS ONE. (2022)_
 ---
 ### Conference Proceedings
 
-Afrispeech-Dialog: A Benchmark Dataset for Spontaneous English Conversations in Healthcare and Beyond\
+K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction.\
+**Abdullahi, T.**, Gemou, I., Nayak, N., Murtaza G., et al.\
+_Under Review at KDD. (2025)_
+
+[AfriMed-QA: Towards A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset](https://huggingface.co/datasets/intronhealth/afrimedqa_v2)\
+Olatunji, T., Charles, N., Owodunni, A., Yuehgoh F., **Abdullahi, T.**, et al.\
+_Under Review at ACL ARR. (2025)_
+
+Afrispeech-Dialog: A Benchmark Dataset for Spontaneous English Conversations in Healthcare and Beyond (https://arxiv.org/abs/2502.03945)\
 Mardhiyyah Sanni, **Abdullahi, T.** et al.\
 _NAACL. (2025)_
 
 Diagnostic Accuracy of ChatGPT4.0 for TIA or Stroke Using Patient Symptoms and Demographic Data.\
 Khatri, I.,  **Abdullahi, T.** et al. \
 _International Stroke Conference, (2025)_
-
-[AfriMed-QA: Towards A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset](https://huggingface.co/datasets/intronhealth/afrimedqa_v2)\
-Olatunji, T., Charles, N., Owodunni, A., Yuehgoh F., **Abdullahi, T.**, et al.\
-_Under Review at ACL ARR. (2025)_
 
 [Retrieval Augmented Zero-Shot Text Classification](https://openreview.net/pdf?id=Z7JgoQ7R9Y)\
 **Abdullahi, T.**, Singh, R., and Eickhoff, C. \
@@ -55,5 +59,5 @@ _In Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 20
 
 ---
 
-<p style="font-size:11px">Last Updated on 06/10/2024 by Tassallah Abdullahi</p>
+<p style="font-size:11px">Last Updated on 02/10/2025 by Tassallah Abdullahi</p>
 <!-- Remove above link if you don't want to attibute -->
