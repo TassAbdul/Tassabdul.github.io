@@ -31,7 +31,7 @@ _PLoS ONE. (2022)_
 
 K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction.\
 **Abdullahi, T.**, Gemou, I., Nayak, N., Murtaza G., et al.\
-_Under Review at KDD. (2025)_
+_Under Review_
 
 [AfriMed-QA: Towards A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset](https://huggingface.co/datasets/intronhealth/afrimedqa_v2)\
 Olatunji, T., Charles, N., Owodunni, A., Yuehgoh F., **Abdullahi, T.**, et al.\
