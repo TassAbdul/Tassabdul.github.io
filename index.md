@@ -7,7 +7,7 @@ Prior to my graduate studies at Brown, I obtained a Master’s degree in compute
 ---
 You can contact me at tassallah_abdullahi@brown.edu
  
-<a href="https://Tassabdul.github.io/pdf/Resume_2025_.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9), [Twitter](https://twitter.com/amilah_dul)
+<a href="https://Tassabdul.github.io/pdf/Resume_2025_pdf.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9), [Twitter](https://twitter.com/amilah_dul)
 <!-- Remove above link if you don't want to attibute -->
 
 
