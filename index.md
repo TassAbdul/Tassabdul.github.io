@@ -1,9 +1,9 @@
 
-I am a Ph.D. Candidate at Brown University, co-advised by Carsten Eickhoff in the [Health AI](http://brown.edu/Research/AI/people/carsten.html) and Ritambhara Singh in the [Singh Lab](https://ritambharasingh.com/). I am also a [ACM SIGHPC Fellow](https://www.sighpc.org/for-your-career/fellowships/2022-fellowship-winners).
+I am a 5th-year Ph.D. Candidate at Brown University, co-advised by Carsten Eickhoff in the [Health AI](http://brown.edu/Research/AI/people/carsten.html) and Ritambhara Singh in the [Singh Lab](https://ritambharasingh.com/). I am also a [ACM SIGHPC Fellow](https://www.sighpc.org/for-your-career/fellowships/2022-fellowship-winners).
 
 My research lies at the intersection of information retrieval and natural language processing (NLP), with a focus on improving learning, factuality, and evidence-based modeling, particularly in healthcare. I am especially interested in evaluating the performance, robustness, and fairness of NLP and automatic speech recognition systems, and understanding their implications for healthcare accessibility in low- and middle-income settings.
 
-I also collaborate with [Dr. Hamish Fraser](https://bcbi.brown.edu/people/hamish-fraser-mbchb-msc-facmi-fiashi) and the [Bio-RAMP](https://bioramp.org/) group on assessing the safety, robustness, and clinical applicability of generative AI in clinical decision-making, especially for low-resource healthcare environments.
+I also collaborate with [Dr. Hamish Fraser](https://bcbi.brown.edu/people/hamish-fraser-mbchb-msc-facmi-fiashi), [Bio-RAMP Labs](https://bioramp.org/) and the [Masakhane](https://www.masakhane.io/) group on assessing the safety, robustness, and clinical applicability of generative AI in clinical decision-making, especially for low-resource healthcare environments.
 
 Prior to my graduate studies at Brown, I obtained a Master’s degree in computer science from the University of Cape Town, South Africa (UCT). At UCT, I worked with Professor [Geoff Nitschke](http://www.nitschke-lab.uct.ac.za/nitschke/people) on applying evolutionary algorithms to optimize machine learning for predictive analysis. 
 
