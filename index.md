@@ -15,12 +15,20 @@ You can contact me at tassallah_abdullahi@brown.edu
 
 
 ### Recent News
-
+- Two Papers accepted to NeurIPS
 - Our Paper AfrimedQA won the Best Social Impact Award at ACL 2025, Vienna.
 - I presented my work on leveraging knowledge graphs for explainable and evidence-based AI-driven drug discovery at KDD 2025, Toronto.
 - I will join Optum AI, UnitedHealth Group, as a Graduate Research Intern this Summer 2025.
 
 ### Selected Conference Proceedings
+
+[Position: Benchmarking is Broken-Don't Let AI Be Its Own Judge](https://digitalcommons.odu.edu/computerscience_fac_pubs/379/)\
+ Cheng, Z., Wohnig S., Gupta, R., Alam, S., **Abdullahi, T.**, et al.\
+_NeurIPS (2025)_
+
+[LLM-Powered Graph Reasoning for Knowledge Discovery](https://openreview.net/forum?id=1e2KXoV3li)\
+Gemou, I., **Abdullahi, T.**, Singh, R.\
+_WIML NeurIPS (2025)_
 
 [K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction](https://arxiv.org/abs/2502.13344)\
 **Abdullahi, T.**, Gemou, I., Nayak, N., Murtaza G., et al.\
