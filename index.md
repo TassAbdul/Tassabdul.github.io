@@ -1,16 +1,18 @@
 
 I am a 5th-year Ph.D. Candidate at Brown University, co-advised by Carsten Eickhoff in the [Health AI](http://brown.edu/Research/AI/people/carsten.html) and Ritambhara Singh in the [Singh Lab](https://ritambharasingh.com/). I am also a [ACM SIGHPC Fellow](https://www.sighpc.org/for-your-career/fellowships/2022-fellowship-winners).
 
-My research lies at the intersection of information retrieval and natural language processing (NLP), with a focus on improving learning, factuality, and evidence-based modeling, particularly in healthcare. I am especially interested in evaluating the performance, robustness, and fairness of NLP and automatic speech recognition systems, and understanding their implications for healthcare accessibility in low- and middle-income settings.
+My research focuses on developing reliable and trustworthy Natural Language Processing (NLP) systems. I focus on core challenges, such as improving factuality, robustness, and safety, with a deep interest in ensuring these qualities hold in high-stakes, low-resource, and multilingual environments.
 
-I also collaborate with [Dr. Hamish Fraser](https://bcbi.brown.edu/people/hamish-fraser-mbchb-msc-facmi-fiashi), [Bio-RAMP Labs](https://bioramp.org/) and the [Masakhane](https://www.masakhane.io/) group on assessing the safety, robustness, and clinical applicability of generative AI in clinical decision-making, especially for low-resource healthcare environments.
+**Current Research Areas:**
+*   **Clinical Decision Support:** In collaboration with [Dr. Hamish Fraser](https://bcbi.brown.edu/people/hamish-fraser-mbchb-msc-facmi-fiashi) and [Bio-RAMP Labs](https://bioramp.org/), I assess the safety and clinical applicability of generative AI in low-resource settings.
+*   **Global Accessibility:** Through the [Masakhane](https://www.masakhane.io/) NLP community, I work on evaluating automatic speech recognition and Multimodal systems to improve healthcare accessibility in low- and middle-income countries.
 
-Prior to my graduate studies at Brown, I obtained a Master’s degree in computer science from the University of Cape Town, South Africa (UCT). At UCT, I worked with Professor [Geoff Nitschke](http://www.nitschke-lab.uct.ac.za/nitschke/people) on applying evolutionary algorithms to optimize machine learning for predictive analysis. 
+Prior to Brown, I obtained a Master’s in Computer Science from the University of Cape Town, where I worked with Professor [Geoff Nitschke](http://www.nitschke-lab.uct.ac.za/nitschke/people) on evolutionary algorithms for predictive modeling.
 
 ---
 You can contact me at tassallah_abdullahi@brown.edu
  
-<a href="https://Tassabdul.github.io/pdf/Resume_Aug_2025_Trust.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9), [Twitter](https://twitter.com/amilah_dul)
+<a href="https://Tassabdul.github.io/pdf/Resume_Sep_2025__Safety_.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9), [Twitter](https://twitter.com/amilah_dul)
 <!-- Remove above link if you don't want to attibute -->
 
 
