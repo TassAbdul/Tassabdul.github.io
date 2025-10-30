@@ -20,7 +20,7 @@ You can contact me at tassallah_abdullahi@brown.edu
 - Two Papers accepted to NeurIPS
 - Our Paper AfrimedQA won the Best Social Impact Award at ACL 2025, Vienna.
 - I presented my work on leveraging knowledge graphs for explainable and evidence-based AI-driven drug discovery at KDD 2025, Toronto.
-- I will join Optum AI, UnitedHealth Group, as a Graduate Research Intern this Summer 2025.
+- Completed my Summer 2025 internship at Optum AI, UnitedHealth Group.
 
 ### Selected Conference Proceedings
 
