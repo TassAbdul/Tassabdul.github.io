@@ -10,6 +10,8 @@ My research focuses on developing reliable and trustworthy Natural Language Proc
 Prior to Brown, I obtained a Master’s in Computer Science from the University of Cape Town, where I worked with Professor [Geoff Nitschke](http://www.nitschke-lab.uct.ac.za/nitschke/people) on evolutionary algorithms for predictive modeling.
 
 ---
+**I am currently seeking full-time research or applied roles starting in 2026.**
+
 You can contact me at tassallah_abdullahi@brown.edu
  
 <a href="https://Tassabdul.github.io/pdf/Resume_JAN_2026.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9), [Twitter](https://twitter.com/amilah_dul)
