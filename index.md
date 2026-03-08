@@ -1,28 +1,39 @@
 
-I am a 5th-year Ph.D. Candidate at Brown University, co-advised by Carsten Eickhoff in the [Health AI](http://brown.edu/Research/AI/people/carsten.html) and Ritambhara Singh in the [Singh Lab](https://ritambharasingh.com/). I am also a [ACM SIGHPC Fellow](https://www.sighpc.org/for-your-career/fellowships/2022-fellowship-winners).
+I am a 5th-year Ph.D. Candidate in Computer Science at Brown University, co-advised by [Carsten Eickhoff](http://brown.edu/Research/AI/people/carsten.html) in the Health AI group and [Ritambhara Singh](https://ritambharasingh.com/) in the Singh Lab. I am also an [ACM SIGHPC Fellow](https://www.sighpc.org/for-your-career/fellowships/2022-fellowship-winners).
 
-My research focuses on developing reliable and trustworthy Natural Language Processing (NLP) systems. I focus on core challenges, such as improving factuality, robustness, and safety, with a deep interest in ensuring these qualities hold in high-stakes, low-resource, and multilingual environments.
+My research focuses on the **evaluation, robustness, and safety of large language models (LLMs) across speech and text modalities**. I design benchmarks, adversarial evaluation frameworks, and LLM evaluation pipelines to improve reliability and trustworthiness in AI systems, with particular attention to **multilingual, low-resource, and high-stakes domains such as healthcare**.
 
-**Current Research Areas:**
-*   **Clinical Decision Support:** In collaboration with [Dr. Hamish Fraser](https://bcbi.brown.edu/people/hamish-fraser-mbchb-msc-facmi-fiashi) and [Bio-RAMP Labs](https://bioramp.org/), I assess the safety and clinical applicability of generative AI in low-resource settings.
-*   **Global Accessibility:** Through the [Masakhane](https://www.masakhane.io/) NLP community, I work on evaluating automatic speech recognition and Multimodal systems to improve healthcare accessibility in low- and middle-income countries.
+
+## Current Research Areas
+
+**LLM Evaluation and Benchmarking**  
+I develop evaluation frameworks and benchmarks to assess the safety, factuality, and robustness of LLMs. My work investigates adversarial vulnerabilities, limitations of self-evaluation, and failure modes in generative AI systems.
+
+**Clinical Decision Support**  
+In collaboration with [Dr. Hamish Fraser](https://bcbi.brown.edu/people/hamish-fraser-mbchb-msc-facmi-fiashi) and [Bio-RAMP Labs](https://bioramp.org/), I evaluate the safety, reliability, and clinical applicability of LLMs and generative AI systems for diagnostic reasoning, especially in low-resource healthcare settings.
+
+**Global Accessibility and Multilingual AI**  
+Through the [Masakhane NLP community](https://www.masakhane.io/), I work on evaluating automatic speech recognition and multimodal LLMs to improve healthcare accessibility in low- and middle-income countries.
+
 
 Prior to Brown, I obtained a Master’s in Computer Science from the University of Cape Town, where I worked with Professor [Geoff Nitschke](http://www.nitschke-lab.uct.ac.za/nitschke/people) on evolutionary algorithms for predictive modeling.
 
 ---
-**I am currently seeking full-time research or applied roles starting in 2026.**
+**I am currently seeking full-time Research Scientist or Applied Scientist roles starting in 2026.**  
+You can contact me at **tassallah_abdullahi@brown.edu**  
 
-You can contact me at tassallah_abdullahi@brown.edu
- 
-<a href="https://Tassabdul.github.io/pdf/Resume_JAN_2026.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9), [Twitter](https://twitter.com/amilah_dul)
+<a href="https://Tassabdul.github.io/pdf/Resume_March_2026.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9), [Twitter](https://twitter.com/amilah_dul)
 <!-- Remove above link if you don't want to attibute -->
 
 
-### Recent News
-- Two Papers accepted to NeurIPS
-- Our Paper AfrimedQA won the Best Social Impact Award at ACL 2025, Vienna.
-- I presented my work on leveraging knowledge graphs for explainable and evidence-based AI-driven drug discovery at KDD 2025, Toronto.
-- Completed my Summer 2025 internship at Optum AI, UnitedHealth Group.
+## Recent News
+
+- Our work *UbuntuGuard* highlighting local policy approaches for AI safety, was recently featured by the [Burnes Center for Social Change](https://rebootdemocracy.ai/blog/ubuntu-guard-local-policy-ai-safety?trk=public_post_comment-text), 
+- Two papers accepted to NeurIPS 2025  
+- *AfriMed-QA* won the Best Social Impact Award at ACL 2025, Vienna  
+- Presented work on knowledge graph reasoning for explainable AI-driven drug discovery at KDD 2025, Toronto  
+- Completed Summer 2025 internship at Optum AI, UnitedHealth Group  
+
 
 ### Selected Conference Proceedings
 
@@ -66,7 +77,11 @@ _In Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 20
 
 ### Selected Journal Articles
 
-[Retrieval Based Diagnostic Decision Support: A Mixed Methods Study](https://preprints.jmir.org/preprint/50209)\
+[**Identifying and Timing Patient Outcomes in Clinician Notes Using Large Language Models**](#)  
+**Abdullahi, T.**, A. Hamzeh, I. Sears, N. Abadi, R. Singh, C. Eickhoff, A. Abbasi  
+_Artificial Intelligence in Medicine, (2026)_
+
+[Retrieval-Based Diagnostic Decision Support: A Mixed Methods Study](https://preprints.jmir.org/preprint/50209)\
 **Abdullahi, T.**, Mercurio L., Singh, R., and Eickhoff, C. \
 _JMIR Med Informatics. (2024)_
 
@@ -82,5 +97,5 @@ _PLoS ONE. (2022)_
 ---
 
 
-<p style="font-size:11px">Last Updated on 09/29/2025 by Tassallah Abdullahi</p>
+<p style="font-size:11px">Last Updated on 03/09/2026 by Tassallah Abdullahi</p>
 <!-- Remove above link if you don't want to attibute -->
