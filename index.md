@@ -1,10 +1,10 @@
 
 I am a 5th-year Ph.D. Candidate in Computer Science at Brown University, co-advised by [Carsten Eickhoff](http://brown.edu/Research/AI/people/carsten.html) in the Health AI group and [Ritambhara Singh](https://ritambharasingh.com/) in the Singh Lab. I am also an [ACM SIGHPC Fellow](https://www.sighpc.org/for-your-career/fellowships/2022-fellowship-winners).
 
-My research focuses on the **evaluation, robustness, and safety of large language models (LLMs) across speech and text modalities**. I design benchmarks, adversarial evaluation frameworks, and LLM evaluation pipelines to improve reliability and trustworthiness in AI systems, with particular attention to **multilingual, low-resource, and high-stakes domains such as healthcare**.
+My research focuses on the evaluation, robustness, and safety of large language models (LLMs) across speech and text modalities. I design benchmarks, adversarial evaluation frameworks, and LLM evaluation pipelines to improve reliability and trustworthiness in AI systems, with particular attention to multilingual, low-resource, and high-stakes domains such as healthcare.
 
 
-## Current Research Areas
+### Current Research Areas
 
 **LLM Evaluation and Benchmarking**  
 I develop evaluation frameworks and benchmarks to assess the safety, factuality, and robustness of LLMs. My work investigates adversarial vulnerabilities, limitations of self-evaluation, and failure modes in generative AI systems.
@@ -26,9 +26,9 @@ You can contact me at **tassallah_abdullahi@brown.edu**
 <!-- Remove above link if you don't want to attibute -->
 
 
-## Recent News
+### Recent News
 
-- Our work *UbuntuGuard* highlighting local policy approaches for AI safety, was recently featured by the [Burnes Center for Social Change](https://rebootdemocracy.ai/blog/ubuntu-guard-local-policy-ai-safety?trk=public_post_comment-text), 
+- Our work *UbuntuGuard*, highlighting local policy approaches for AI safety, was recently featured by the [Burnes Center for Social Change](https://rebootdemocracy.ai/blog/ubuntu-guard-local-policy-ai-safety?trk=public_post_comment-text), 
 - Two papers accepted to NeurIPS 2025  
 - *AfriMed-QA* won the Best Social Impact Award at ACL 2025, Vienna  
 - Presented work on knowledge graph reasoning for explainable AI-driven drug discovery at KDD 2025, Toronto  
