@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Tassallah Amina Abdullahi</title>
+
+<meta name="author" content="Tassallah Amina Abdullahi">
+<meta name="description" content="Tassallah Amina Abdullahi — research scientist working on the evaluation, alignment, and behavioral control of large language models across text and speech.">
+<meta name="keywords" content="Tassallah Abdullahi, LLM evaluation, AI safety, model alignment, LLM-as-a-Judge, responsible AI, multilingual NLP, clinical AI, healthcare AI">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Tassallah Amina Abdullahi — LLM Evaluation, Alignment & Safety">
+<meta property="og:description" content="Research on the evaluation, alignment, and behavioral control of large language models across text and speech.">
+<meta property="og:url" content="https://tassabdul.github.io/">
+<meta property="og:image" content="https://tassabdul.github.io/images/headshot.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@amilah_dul">
+<meta name="twitter:title" content="Tassallah Amina Abdullahi">
+<meta name="twitter:description" content="Research on the evaluation, alignment, and behavioral control of large language models.">
+<meta name="theme-color" content="#0E4B45">
+
+<script>
+  /* set theme before paint to avoid a flash */
+  (function(){try{var t=localStorage.getItem('theme');if(!t)t=window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';if(t==='dark')document.documentElement.setAttribute('data-theme','dark');}catch(e){}})();
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --paper:#FCFBF6;
+  --paper-2:#F4F0E6;
+  --card:#FFFFFF;
+  --ink:#181A1C;
+  --ink-2:#565C60;
+  --ink-3:#8A8F90;
+  --line:#E6E1D4;
+  --line-2:#D9D3C2;
+  --teal:#0E4B45;
+  --teal-deep:#0A3732;
+  --teal-tint:#E3EDEA;
+  --marigold:#C98A22;
+  --marigold-deep:#A66E12;
+  --marigold-soft:#F5E7C7;
+  --gold-light:#F4E7C8;
+  --nav-bg:rgba(252,251,246,.82);
+  --radius:14px;
+  --maxw:1120px;
+  --rail:330px;
+}
+:root[data-theme="dark"]{
+  --paper:#0F1211;
+  --paper-2:#191D1A;
+  --card:#171B18;
+  --ink:#ECEAE1;
+  --ink-2:#A4AAA2;
+  --ink-3:#767C74;
+  --line:#262B27;
+  --line-2:#373D38;
+  --teal:#63BCAC;
+  --teal-deep:#8FD3C6;
+  --teal-tint:#153029;
+  --marigold:#E6B451;
+  --marigold-deep:#EDC673;
+  --marigold-soft:#33280F;
+  --nav-bg:rgba(15,18,17,.82);
+}
+*{box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto;}}
+body{
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  font-size:16px;
+  line-height:1.62;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  transition:background-color .35s ease,color .35s ease;
+}
+a{color:var(--teal);text-decoration:none;}
+h1,h2,h3{font-family:"Fraunces",Georgia,serif;font-weight:500;line-height:1.15;letter-spacing:-.01em;margin:0;}
+.mono{font-family:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;}
+
+/* ---------- top nav ---------- */
+.nav{
+  position:sticky;top:0;z-index:40;
+  background:var(--nav-bg);
+  backdrop-filter:saturate(140%) blur(10px);
+  border-bottom:1px solid var(--line);
+}
+.nav-inner{
+  max-width:var(--maxw);margin:0 auto;padding:0 28px;
+  height:60px;display:flex;align-items:center;justify-content:space-between;gap:16px;
+}
+.nav-name{font-family:"Fraunces",serif;font-size:1.06rem;font-weight:600;color:var(--ink);letter-spacing:-.01em;white-space:nowrap;}
+.nav-name b{color:var(--teal);}
+.nav-links{display:flex;gap:4px;align-items:center;}
+.nav-links a{
+  font-size:.83rem;color:var(--ink-2);padding:7px 11px;border-radius:8px;
+  letter-spacing:.01em;transition:color .18s,background .18s;
+}
+.nav-links a:hover{color:var(--teal);background:var(--teal-tint);}
+.nav-links a.active{color:var(--teal);font-weight:600;}
+.nav-cv{border:1px solid var(--line-2)!important;color:var(--teal)!important;font-weight:600!important;}
+.nav-cv:hover{background:var(--teal)!important;color:var(--paper)!important;border-color:var(--teal)!important;}
+.nav-right{display:flex;align-items:center;gap:8px;}
+.theme-btn{
+  background:none;border:1px solid var(--line-2);border-radius:8px;padding:7px;cursor:pointer;
+  color:var(--ink-2);display:flex;align-items:center;justify-content:center;transition:color .18s,border-color .18s;
+}
+.theme-btn:hover{color:var(--teal);border-color:var(--teal);}
+.theme-btn svg{display:block;width:17px;height:17px;}
+.theme-btn .ic-sun{display:none;}
+:root[data-theme="dark"] .theme-btn .ic-sun{display:block;}
+:root[data-theme="dark"] .theme-btn .ic-moon{display:none;}
+.menu-btn{display:none;background:none;border:1px solid var(--line-2);border-radius:8px;padding:8px 10px;cursor:pointer;color:var(--ink);}
+.menu-btn svg{display:block;}
+
+/* ---------- layout ---------- */
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 28px;}
+.layout{display:grid;grid-template-columns:var(--rail) 1fr;gap:56px;align-items:start;padding:48px 0 80px;}
+
+/* ---------- rail ---------- */
+.rail{position:sticky;top:88px;}
+.portrait-wrap{position:relative;width:180px;height:180px;margin-bottom:22px;}
+.portrait{
+  width:180px;height:180px;border-radius:20px;object-fit:cover;display:block;
+  border:1px solid var(--line-2);box-shadow:0 14px 34px -18px rgba(14,75,69,.45);
+}
+.mono-fallback{
+  display:flex;align-items:center;justify-content:center;
+  background:linear-gradient(150deg,#0E4B45,#0A3732);
+  color:var(--gold-light);font-family:"Fraunces",serif;font-size:3.4rem;font-weight:500;
+  border:none;
+}
+.portrait-wrap::after{
+  content:"";position:absolute;right:-10px;bottom:-10px;width:56px;height:56px;
+  border-right:2px solid var(--marigold);border-bottom:2px solid var(--marigold);
+  border-bottom-right-radius:20px;
+}
+.rail h1{font-size:1.72rem;margin-bottom:2px;}
+.greet{
+  font-family:"IBM Plex Mono",monospace;font-size:.78rem;color:var(--marigold-deep);
+  letter-spacing:.02em;height:1.2em;margin:6px 0 16px;
+}
+.greet span{display:inline-block;}
+.role{font-size:.95rem;color:var(--ink);line-height:1.5;margin-bottom:3px;}
+.role b{color:var(--teal);font-weight:600;}
+.loc{font-size:.85rem;color:var(--ink-2);display:flex;align-items:center;gap:6px;margin-bottom:18px;}
+.loc svg{flex:none;}
+
+.social{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px;}
+.social a{
+  width:38px;height:38px;border:1px solid var(--line-2);border-radius:10px;
+  display:flex;align-items:center;justify-content:center;color:var(--ink-2);
+  transition:all .18s;background:var(--card);
+}
+.social a:hover{color:var(--paper);background:var(--teal);border-color:var(--teal);transform:translateY(-2px);}
+.social svg{width:17px;height:17px;}
+
+.factbox{border-top:1px solid var(--line);padding-top:16px;}
+.fact{display:flex;gap:10px;font-size:.82rem;margin-bottom:11px;line-height:1.4;}
+.fact .k{font-family:"IBM Plex Mono",monospace;font-size:.68rem;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-3);flex:none;width:74px;padding-top:2px;}
+.fact .v{color:var(--ink);}
+.fact .v a{border-bottom:1px solid var(--line-2);}
+.fact .v a:hover{border-color:var(--marigold);}
+
+/* ---------- content ---------- */
+.content{min-width:0;}
+section{margin-bottom:56px;scroll-margin-top:80px;}
+.eyebrow{
+  font-family:"IBM Plex Mono",monospace;font-size:.7rem;text-transform:uppercase;
+  letter-spacing:.16em;color:var(--marigold-deep);margin-bottom:12px;display:flex;align-items:center;gap:10px;
+}
+.eyebrow::after{content:"";height:1px;flex:1;background:var(--line);}
+.content h2{font-size:1.7rem;margin-bottom:18px;color:var(--ink);}
+.content p{margin:0 0 16px;color:var(--ink);max-width:64ch;}
+.content p a{border-bottom:1px solid var(--marigold-soft);transition:border-color .18s;}
+.content p a:hover{border-color:var(--marigold);}
+.lead{font-size:1.12rem;line-height:1.6;}
+
+.pills{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px;}
+.pill{
+  font-family:"IBM Plex Mono",monospace;font-size:.72rem;letter-spacing:.02em;
+  padding:6px 12px;border-radius:999px;background:var(--paper-2);color:var(--teal-deep);
+  border:1px solid var(--line);
+}
+
+/* research area cards */
+.cards{display:grid;grid-template-columns:1fr;gap:0;border-top:1px solid var(--line);}
+.rc{display:grid;grid-template-columns:38px 1fr;gap:18px;padding:22px 0;border-bottom:1px solid var(--line);}
+.rc .num{font-family:"IBM Plex Mono",monospace;font-size:.82rem;color:var(--marigold-deep);padding-top:4px;}
+.rc h3{font-size:1.12rem;font-family:"Inter",sans-serif;font-weight:600;letter-spacing:0;margin-bottom:6px;color:var(--ink);}
+.rc p{font-size:.92rem;color:var(--ink-2);margin:0;max-width:60ch;}
+.rc p a{color:var(--teal);border-bottom:1px solid var(--line-2);}
+
+/* publications */
+.pubgroup{margin-bottom:30px;}
+.pubgroup h3{
+  font-family:"Inter",sans-serif;font-weight:600;font-size:.82rem;letter-spacing:.06em;
+  text-transform:uppercase;color:var(--ink-2);margin-bottom:4px;
+}
+.pub{padding:16px 0;border-top:1px solid var(--line);}
+.pub:first-of-type{border-top:1px solid var(--line-2);}
+.pub .t{font-weight:600;color:var(--ink);font-size:1rem;line-height:1.4;}
+.pub .au{font-size:.88rem;color:var(--ink-2);margin:3px 0 7px;}
+.pub .au b{color:var(--ink);font-weight:600;}
+.pub .meta{display:flex;flex-wrap:wrap;align-items:center;gap:8px;}
+.venue{font-family:"IBM Plex Mono",monospace;font-size:.72rem;color:var(--teal-deep);background:var(--teal-tint);padding:3px 9px;border-radius:6px;letter-spacing:.01em;}
+.award{font-family:"IBM Plex Mono",monospace;font-size:.7rem;color:var(--marigold-deep);background:var(--marigold-soft);padding:3px 9px;border-radius:6px;font-weight:500;}
+.chip{
+  font-family:"IBM Plex Mono",monospace;font-size:.7rem;color:var(--ink-2);
+  border:1px solid var(--line-2);padding:3px 9px;border-radius:6px;transition:all .16s;
+}
+.chip:hover{color:var(--teal);border-color:var(--teal);background:var(--teal-tint);}
+
+/* news timeline */
+.news{border-left:2px solid var(--line);padding-left:22px;margin-left:4px;}
+.ni{position:relative;padding-bottom:18px;}
+.ni::before{content:"";position:absolute;left:-27px;top:7px;width:9px;height:9px;border-radius:50%;background:var(--marigold);border:2px solid var(--paper);}
+.ni .d{font-family:"IBM Plex Mono",monospace;font-size:.7rem;color:var(--ink-3);text-transform:uppercase;letter-spacing:.06em;}
+.ni .x{font-size:.94rem;color:var(--ink);margin-top:1px;}
+.ni .x a{border-bottom:1px solid var(--marigold-soft);}
+.ni .x a:hover{border-color:var(--marigold);}
+
+/* two-col small lists */
+.edu .row{padding:15px 0;border-top:1px solid var(--line);}
+.edu .row:first-child{border-top:1px solid var(--line-2);}
+.edu .top{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;}
+.edu .deg{font-weight:600;color:var(--ink);}
+.edu .yr{font-family:"IBM Plex Mono",monospace;font-size:.75rem;color:var(--ink-3);white-space:nowrap;padding-top:2px;}
+.edu .sub{font-size:.88rem;color:var(--ink-2);margin-top:2px;}
+
+.honors{list-style:none;padding:0;margin:0;}
+.honors li{position:relative;padding:9px 0 9px 22px;font-size:.94rem;color:var(--ink);border-top:1px solid var(--line);}
+.honors li:first-child{border-top:none;}
+.honors li::before{content:"";position:absolute;left:0;top:16px;width:7px;height:7px;background:var(--teal);border-radius:2px;}
+
+footer{border-top:1px solid var(--line);padding:26px 0 60px;color:var(--ink-3);font-size:.8rem;font-family:"IBM Plex Mono",monospace;}
+footer a{color:var(--ink-2);border-bottom:1px solid var(--line-2);}
+
+/* ---------- responsive ---------- */
+@media (max-width:900px){
+  :root{--rail:0;}
+  .layout{grid-template-columns:1fr;gap:38px;padding:34px 0 60px;}
+  .rail{position:static;display:grid;grid-template-columns:auto 1fr;grid-template-areas:"pic id" "facts facts" "soc soc";gap:6px 22px;align-items:center;padding-bottom:8px;border-bottom:1px solid var(--line);}
+  .portrait-wrap{grid-area:pic;width:118px;height:118px;margin-bottom:0;}
+  .portrait{width:118px;height:118px;border-radius:16px;}
+  .portrait-wrap::after{width:38px;height:38px;right:-6px;bottom:-6px;}
+  .rail h1{grid-area:id;align-self:end;}
+  .greet{grid-area:id;align-self:start;margin:0;}
+  .rail .role,.rail .loc{grid-column:1/-1;}
+  .role{margin-top:14px;}
+  .social{grid-area:soc;margin:14px 0 0;}
+  .factbox{grid-area:facts;margin-top:12px;}
+  .nav-links{display:none;position:absolute;top:60px;left:0;right:0;background:var(--paper);border-bottom:1px solid var(--line);flex-direction:column;align-items:stretch;padding:10px 20px 16px;gap:2px;}
+  .nav-links.open{display:flex;}
+  .nav-links a{padding:11px 12px;font-size:.95rem;}
+  .menu-btn{display:block;}
+}
+@media (max-width:520px){
+  .wrap,.nav-inner{padding-left:18px;padding-right:18px;}
+  .rail{grid-template-columns:1fr;grid-template-areas:"pic" "id" "role" "soc" "facts";justify-items:start;}
+  .rail h1,.greet{align-self:auto;}
+  .content h2{font-size:1.45rem;}
+}
+
+/* reveal */
+.reveal{opacity:0;transform:translateY(14px);transition:opacity .6s ease,transform .6s ease;}
+.reveal.in{opacity:1;transform:none;}
+@media (prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none;}}
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <div class="nav-name">Tassallah <b>A. Abdullahi</b></div>
+    <div class="nav-right">
+      <div class="nav-links" id="navLinks">
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#news">News</a>
+        <a href="#publications">Publications</a>
+        <a class="nav-cv" href="https://tassabdul.github.io/pdf/Resume_March_2026.pdf" target="_blank" rel="noopener">CV ↗</a>
+      </div>
+      <button class="theme-btn" id="themeBtn" aria-label="Toggle dark mode" title="Toggle dark mode">
+        <svg class="ic-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        <svg class="ic-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.4M12 19.6V22M4.2 4.2l1.7 1.7M18.1 18.1l1.7 1.7M2 12h2.4M19.6 12H22M4.2 19.8l1.7-1.7M18.1 5.9l1.7-1.7"/></svg>
+      </button>
+      <button class="menu-btn" id="menuBtn" aria-label="Menu" aria-expanded="false">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<div class="wrap">
+  <div class="layout">
+
+    <!-- ============ IDENTITY RAIL ============ -->
+    <aside class="rail">
+      <div class="portrait-wrap">
+        <img class="portrait" src="images/headshot.jpg" alt="Tassallah Amina Abdullahi"
+             onerror="this.style.display='none';document.getElementById('monoPic').style.display='flex';">
+        <div class="portrait mono-fallback" id="monoPic" style="display:none;">TA</div>
+      </div>
+
+      <h1>Tassallah Amina<br>Abdullahi</h1>
+      <div class="greet mono" id="greet" aria-hidden="true"><span>Hello</span></div>
+
+      <p class="role"><b>Senior Responsible AI Data Scientist</b>, R&amp;D<br>Humana</p>
+      <p class="loc">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+        Providence, RI · she/her
+      </p>
+
+      <div class="social">
+        <a href="mailto:tassallah_abdullahi@brown.edu" title="Email" aria-label="Email">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 6-10 7L2 6"/></svg>
+        </a>
+        <a href="https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2 1 8l11 6 9-4.9V16h2V8L12 2zM5 13.2V17c0 1.7 3.1 3 7 3s7-1.3 7-3v-3.8l-7 3.8-7-3.8z"/></svg>
+        </a>
+        <a href="https://github.com/TassAbdul" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.7.5.5 5.7.5 12c0 5.1 3.3 9.4 7.8 10.9.6.1.8-.2.8-.5v-1.8c-3.2.7-3.9-1.5-3.9-1.5-.5-1.3-1.3-1.7-1.3-1.7-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.7 1.3 3.4 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.3 1.2a11.5 11.5 0 0 1 6 0C17.3 5 18.3 5.3 18.3 5.3c.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.3c0 .3.2.6.8.5 4.5-1.5 7.8-5.8 7.8-10.9C23.5 5.7 18.3.5 12 .5z"/></svg>
+        </a>
+        <a href="https://www.linkedin.com/in/tassallah-amina-abdullahi-06a16ab9" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M4.98 3.5A2.5 2.5 0 1 1 0 3.5a2.5 2.5 0 0 1 4.98 0zM.2 8.4h4.6V24H.2zM8.4 8.4h4.4v2.1h.1c.6-1.1 2.1-2.3 4.3-2.3 4.6 0 5.4 3 5.4 6.9V24h-4.6v-6.9c0-1.6 0-3.7-2.3-3.7s-2.6 1.8-2.6 3.6V24H8.4z"/></svg>
+        </a>
+        <a href="https://twitter.com/amilah_dul" target="_blank" rel="noopener" title="X / Twitter" aria-label="X / Twitter">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.9 2h3.3l-7.2 8.3L23.5 22h-6.6l-5.2-6.8L5.8 22H2.5l7.7-8.9L2 2h6.8l4.7 6.2L18.9 2zm-1.2 18h1.8L7.4 3.9H5.5z"/></svg>
+        </a>
+        <a href="https://tassabdul.github.io/pdf/Resume_March_2026.pdf" target="_blank" rel="noopener" title="Curriculum Vitae" aria-label="CV">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><line x1="8" y1="13" x2="16" y2="13"/><line x1="8" y1="17" x2="13" y2="17"/></svg>
+        </a>
+      </div>
+
+      <div class="factbox">
+        <div class="fact"><span class="k">Focus</span><span class="v">LLM evaluation, alignment &amp; behavioral control</span></div>
+        <div class="fact"><span class="k">Ph.D.</span><span class="v">Computer Science, Brown University (2026)</span></div>
+        <div class="fact"><span class="k">Languages</span><span class="v">English · Hausa · Yoruba · Pidgin</span></div>
+        <div class="fact"><span class="k">Links</span><span class="v"><a href="https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en" target="_blank" rel="noopener">Scholar</a> · <a href="https://tassabdul.github.io/pdf/Resume_March_2026.pdf" target="_blank" rel="noopener">CV</a></span></div>
+      </div>
+    </aside>
+
+    <!-- ============ CONTENT ============ -->
+    <main class="content">
+
+      <section id="about" class="reveal">
+        <div class="eyebrow">About</div>
+        <p class="lead">I work on the evaluation, alignment, and behavioral control of large language models across text and speech — building the pipelines and benchmarks that tell us whether a model is actually reliable before it reaches a high-stakes setting.</p>
+        <p>My research designs evaluation frameworks (including LLM-as-a-Judge pipelines and adversarial benchmarks), analyzes how and why generative systems fail, and develops safety guardrails for multilingual, multimodal, and clinical deployments. I care most about the settings where being wrong is expensive: healthcare, low-resource languages, and communities that evaluation datasets usually leave out.</p>
+        <p>I'm currently a <b>Senior Responsible AI Data Scientist</b> in R&amp;D at <b>Humana</b>, where I build evaluation frameworks and responsible-AI methods that measure the capability, reliability, and behavioral alignment of foundation models in healthcare.</p>
+        <p>I recently completed my Ph.D. in Computer Science at <a href="https://www.brown.edu/" target="_blank" rel="noopener">Brown University</a>, co-advised by <a href="http://brown.edu/Research/AI/people/carsten.html" target="_blank" rel="noopener">Carsten Eickhoff</a> and <a href="https://ritambharasingh.com/" target="_blank" rel="noopener">Ritambhara Singh</a>. My thesis, <em>Towards Trustworthy Clinical AI</em>, spanned knowledge grounding, inference reliability, and behavioral control. I collaborate with <a href="https://bcbi.brown.edu/people/hamish-fraser-mbchb-msc-facmi-fiashi" target="_blank" rel="noopener">Dr. Hamish Fraser</a> and <a href="https://bioramp.org/" target="_blank" rel="noopener">Bio-RAMP Labs</a> on clinical decision support, and with the <a href="https://www.masakhane.io/" target="_blank" rel="noopener">Masakhane</a> community on speech and multimodal evaluation to widen healthcare access across low- and middle-income countries.</p>
+        <p>Before Brown I earned an M.Sc. at the University of Cape Town with Geoff Nitschke, and a B.Sc. at Bayero University Kano.</p>
+        <div class="pills">
+          <span class="pill">Model Alignment &amp; Behavior</span>
+          <span class="pill">LLM Evaluation</span>
+          <span class="pill">Responsible AI</span>
+          <span class="pill">Human–AI Interaction</span>
+          <span class="pill">Multilingual NLP</span>
+        </div>
+      </section>
+
+      <section id="research" class="reveal">
+        <div class="eyebrow">Research areas</div>
+        <h2>What I work on</h2>
+        <div class="cards">
+          <div class="rc">
+            <div class="num mono">01</div>
+            <div>
+              <h3>LLM Evaluation &amp; Benchmarking</h3>
+              <p>Evaluation frameworks and benchmarks for the safety, factuality, and robustness of LLMs — probing adversarial vulnerabilities, the limits of self-evaluation, and failure modes in generative systems.</p>
+            </div>
+          </div>
+          <div class="rc">
+            <div class="num mono">02</div>
+            <div>
+              <h3>Clinical Decision Support</h3>
+              <p>With <a href="https://bcbi.brown.edu/people/hamish-fraser-mbchb-msc-facmi-fiashi" target="_blank" rel="noopener">Dr. Hamish Fraser</a> and <a href="https://bioramp.org/" target="_blank" rel="noopener">Bio-RAMP Labs</a>, evaluating the safety, reliability, and clinical applicability of generative AI for diagnostic reasoning, with a focus on low-resource healthcare settings.</p>
+            </div>
+          </div>
+          <div class="rc">
+            <div class="num mono">03</div>
+            <div>
+              <h3>Global Accessibility &amp; Multilingual AI</h3>
+              <p>Through the <a href="https://www.masakhane.io/" target="_blank" rel="noopener">Masakhane</a> community, evaluating speech recognition and multimodal LLMs to improve healthcare accessibility in low- and middle-income countries.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="news" class="reveal">
+        <div class="eyebrow">Recent news</div>
+        <h2>News</h2>
+        <div class="news">
+          <div class="ni"><div class="d">2026</div><div class="x">Joined <b>Humana</b> as Senior Responsible AI Data Scientist (R&amp;D), building LLM evaluation and responsible-AI frameworks.</div></div>
+          <div class="ni"><div class="d">May 2026</div><div class="x">Invited talk at <b>Google Health AI</b>: <em>Engineering Trustworthy Clinical AI: Knowledge Grounding, Inference Reliability, and Behavioral Control.</em></div></div>
+          <div class="ni"><div class="d">2026</div><div class="x"><em>UbuntuGuard</em>, on local-policy approaches to AI safety, was featured by the <a href="https://rebootdemocracy.ai/blog/ubuntu-guard-local-policy-ai-safety" target="_blank" rel="noopener">Burnes Center for Social Change</a>.</div></div>
+          <div class="ni"><div class="d">2025</div><div class="x">Two papers accepted to <b>NeurIPS 2025</b>.</div></div>
+          <div class="ni"><div class="d">2025</div><div class="x"><em>AfriMed-QA</em> won the <b>Best Social Impact Award</b> at ACL 2025, Vienna.</div></div>
+          <div class="ni"><div class="d">2025</div><div class="x">Presented knowledge-graph reasoning for explainable AI-driven drug discovery at <b>KDD 2025</b>, Toronto.</div></div>
+          <div class="ni"><div class="d">2025</div><div class="x">Completed a summer internship at <b>Optum AI</b>, UnitedHealth Group.</div></div>
+        </div>
+      </section>
+
+      <section id="publications" class="reveal">
+        <div class="eyebrow">Selected publications</div>
+        <h2>Publications</h2>
+        <p style="font-size:.9rem;color:var(--ink-2);">Author list abbreviated; <b>Abdullahi, T.</b> shown in bold. Full list on <a href="https://scholar.google.com/citations?user=1NdMs_4AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>.</p>
+
+        <div class="pubgroup">
+          <h3>Model evaluation, safety &amp; behavior</h3>
+
+          <div class="pub">
+            <div class="t">The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models</div>
+            <div class="au"><b>Abdullahi, T.</b>, et al.</div>
+            <div class="meta"><span class="venue">ACL ARR 2026</span></div>
+          </div>
+
+          <div class="pub">
+            <div class="t">Position: Benchmarking is Broken — Don't Let AI Be Its Own Judge</div>
+            <div class="au">Cheng, Z., Wohnig, S., Gupta, R., Alam, S., <b>Abdullahi, T.</b>, et al.</div>
+            <div class="meta">
+              <span class="venue">NeurIPS 2025</span>
+              <span class="award">Position paper</span>
+              <a class="chip" href="https://digitalcommons.odu.edu/computerscience_fac_pubs/379/" target="_blank" rel="noopener">Paper ↗</a>
+            </div>
+          </div>
+
+          <div class="pub">
+            <div class="t">UbuntuGuard: A Culturally-Grounded Policy Benchmark for Equitable AI Safety in African Languages</div>
+            <div class="au"><b>Abdullahi, T.</b>, et al.</div>
+            <div class="meta">
+              <span class="venue">ACL 2026</span>
+              <a class="chip" href="https://rebootdemocracy.ai/blog/ubuntu-guard-local-policy-ai-safety" target="_blank" rel="noopener">Feature ↗</a>
+            </div>
+          </div>
+
+          <div class="pub">
+            <div class="t">AfriVox: Probing Multilingual and Accent Robustness of Speech &amp; Multimodal LLMs</div>
+            <div class="au"><b>Abdullahi, T.</b>, et al.</div>
+            <div class="meta"><span class="venue">EACL 2026</span></div>
+          </div>
+
+          <div class="pub">
+            <div class="t">LLM-Powered Graph Reasoning for Knowledge Discovery</div>
+            <div class="au">Gemou, I., <b>Abdullahi, T.</b>, Singh, R.</div>
+            <div class="meta">
+              <span class="venue">WiML @ NeurIPS 2025</span>
+              <a class="chip" href="https://openreview.net/forum?id=1e2KXoV3li" target="_blank" rel="noopener">OpenReview ↗</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pubgroup">
+          <h3>Foundation models, reasoning &amp; retrieval</h3>
+
+          <div class="pub">
+            <div class="t">K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction</div>
+            <div class="au"><b>Abdullahi, T.</b>, Gemou, I., Nayak, N., Murtaza, G., et al.</div>
+            <div class="meta">
+              <span class="venue">KDD 2025</span>
+              <a class="chip" href="https://arxiv.org/abs/2502.13344" target="_blank" rel="noopener">arXiv ↗</a>
+            </div>
+          </div>
+
+          <div class="pub">
+            <div class="t">Retrieval-Augmented Zero-Shot Text Classification</div>
+            <div class="au"><b>Abdullahi, T.</b>, Singh, R., Eickhoff, C.</div>
+            <div class="meta">
+              <span class="venue">ACM SIGIR ICTIR 2024</span>
+              <a class="chip" href="https://openreview.net/pdf?id=Z7JgoQ7R9Y" target="_blank" rel="noopener">PDF ↗</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="pubgroup">
+          <h3>Generative AI in healthcare</h3>
+
+          <div class="pub">
+            <div class="t">AfriMed-QA: Towards a Pan-African, Multi-Specialty Medical Question-Answering Benchmark Dataset</div>
+            <div class="au">Olatunji, T., Charles, N., Owodunni, A., Yuehgoh, F., <b>Abdullahi, T.</b>, et al.</div>
+            <div class="meta">
+              <span class="venue">ACL 2025</span>
+              <span class="award">★ Best Social Impact Award</span>
+              <a class="chip" href="https://huggingface.co/datasets/intronhealth/afrimedqa_v2" target="_blank" rel="noopener">Dataset ↗</a>
+            </div>
+          </div>
+
+          <div class="pub">
+            <div class="t">Afrispeech-Dialog: A Benchmark Dataset for Spontaneous English Conversations in Healthcare and Beyond</div>
+            <div class="au">Sanni, M., <b>Abdullahi, T.</b>, et al.</div>
+            <div class="meta">
+              <span class="venue">NAACL 2025</span>
+              <a class="chip" href="https://arxiv.org/abs/2502.03945" target="_blank" rel="noopener">arXiv ↗</a>
+            </div>
+          </div>
+
+          <div class="pub">
+            <div class="t">Identifying and Timing Patient Outcomes in Clinician Notes Using Large Language Models</div>
+            <div class="au"><b>Abdullahi, T.</b>, Hamzeh, A., Sears, I., Abadi, N., Singh, R., Eickhoff, C., Abbasi, A.</div>
+            <div class="meta"><span class="venue">Artificial Intelligence in Medicine 2026</span></div>
+          </div>
+
+          <div class="pub">
+            <div class="t">Diagnostic Accuracy of ChatGPT-4.0 for TIA or Stroke Using Patient Symptoms and Demographic Data</div>
+            <div class="au">Khatri, I., Zahiri, A., <b>Abdullahi, T.</b>, et al.</div>
+            <div class="meta">
+              <span class="venue">Int'l Stroke Conference 2025</span>
+              <a class="chip" href="https://www.ahajournals.org/doi/abs/10.1161/str.56.suppl_1.66" target="_blank" rel="noopener">Paper ↗</a>
+            </div>
+          </div>
+
+          <div class="pub">
+            <div class="t">Retrieval-Based Diagnostic Decision Support: A Mixed-Methods Study</div>
+            <div class="au"><b>Abdullahi, T.</b>, Mercurio, L., Singh, R., Eickhoff, C.</div>
+            <div class="meta">
+              <span class="venue">JMIR Medical Informatics 2024</span>
+              <a class="chip" href="https://preprints.jmir.org/preprint/50209" target="_blank" rel="noopener">Paper ↗</a>
+            </div>
+          </div>
+
+          <div class="pub">
+            <div class="t">Learning to Make Rare and Complex Diagnoses with Generative AI Assistance</div>
+            <div class="au"><b>Abdullahi, T.</b>, Singh, R., Eickhoff, C.</div>
+            <div class="meta">
+              <span class="venue">JMIR Medical Education 2024</span>
+              <a class="chip" href="https://mededu.jmir.org/2024/1/e51391" target="_blank" rel="noopener">Paper ↗</a>
+            </div>
+          </div>
+
+          <div class="pub">
+            <div class="t">Predicting Diarrhoea Outbreaks with Climate Change</div>
+            <div class="au"><b>Abdullahi, T.</b>, Nitschke, G., Sweijd, N.</div>
+            <div class="meta">
+              <span class="venue">PLoS ONE 2022</span>
+              <a class="chip" href="https://tassabdul.github.io/pdf/2022-Predicting%20diarrhoea%20outbreaks%20with%20climate%20change.pdf" target="_blank" rel="noopener">PDF ↗</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        © 2026 Tassallah Amina Abdullahi · <a href="mailto:tassallah_abdullahi@brown.edu">tassallah_abdullahi@brown.edu</a> · built with care
+      </footer>
+
+    </main>
+  </div>
+</div>
+
+<script>
+// ---- theme toggle ----
+const root=document.documentElement;
+function setTheme(t){
+  if(t==='dark')root.setAttribute('data-theme','dark');else root.removeAttribute('data-theme');
+  try{localStorage.setItem('theme',t);}catch(e){}
+}
+document.getElementById('themeBtn').addEventListener('click',()=>{
+  setTheme(root.getAttribute('data-theme')==='dark'?'light':'dark');
+});
+
+// ---- mobile menu ----
+const menuBtn=document.getElementById('menuBtn');
+const navLinks=document.getElementById('navLinks');
+menuBtn.addEventListener('click',()=>{
+  const open=navLinks.classList.toggle('open');
+  menuBtn.setAttribute('aria-expanded',open);
+});
+navLinks.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>navLinks.classList.remove('open')));
+
+// ---- active section highlight ----
+const links=[...navLinks.querySelectorAll('a')].filter(a=>a.getAttribute('href').startsWith('#'));
+const map={};links.forEach(a=>map[a.getAttribute('href').slice(1)]=a);
+const secObs=new IntersectionObserver((entries)=>{
+  entries.forEach(e=>{
+    if(e.isIntersecting){
+      links.forEach(a=>a.classList.remove('active'));
+      if(map[e.target.id])map[e.target.id].classList.add('active');
+    }
+  });
+},{rootMargin:'-45% 0px -50% 0px'});
+document.querySelectorAll('section[id]').forEach(s=>secObs.observe(s));
+
+// ---- reveal on scroll ----
+const revObs=new IntersectionObserver((entries)=>{
+  entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');revObs.unobserve(e.target);}});
+},{rootMargin:'0px 0px -8% 0px'});
+document.querySelectorAll('.reveal').forEach(el=>revObs.observe(el));
+
+// ---- multilingual greeting (English · Hausa · Yoruba · Pidgin) ----
+const greetings=['Hello','Sannu','Ẹ n lẹ o','How far'];
+const greetEl=document.querySelector('#greet span');
+const reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+if(greetEl && !reduce){
+  let i=0;
+  setInterval(()=>{
+    i=(i+1)%greetings.length;
+    greetEl.style.transition='opacity .35s';
+    greetEl.style.opacity='0';
+    setTimeout(()=>{greetEl.textContent=greetings[i];greetEl.style.opacity='1';},350);
+  },2600);
+}
+</script>
+</body>
+</html>
